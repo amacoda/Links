@@ -1,0 +1,85 @@
+/* 本文のスタイル */
+body {
+  color: #283c50;
+  background-color: #ffffff;
+  line-height: 1.25;
+  font-family: "Bizin Gothic Discord", monospace;
+}
+
+
+
+/* リンクのスタイル */
+a {
+  font-family: "Bizin Gothic Discord", monospace;
+}
+
+a:link {
+  color: #666666; background: #ffffff;
+}
+
+a:visited {
+  color: #777777; background: #ffffff;
+}
+
+a:hover {
+  text-decoration; underline; cursor: pointer;
+}
+
+a:acitve {
+  color: #888888; background: #ffffff;
+}
+
+
+
+/* テーブルのスタイル */
+table {
+  margin: auto;
+  padding: 5px
+/*  border-bottom: solid 1px #a9a9a9 */
+}
+
+td {
+  font-family: "Bizin Gothic Discord", monospace;
+}
+
+
+
+/* 画像のスタイル */
+img {
+  vertical-align: bottom;
+  border-width: 0;
+}
+
+
+
+/* ヘッダ部分のスタイル */
+.header { 
+  text-align: center;
+  vertical-align: top;
+}
+
+
+
+/* 検索ボックスのスタイル */
+.search_t {
+  align: center;
+  vertical-align: top; 
+}
+
+.search_m {
+  align: center;
+  vertical-align: middle;
+}
+
+.search_b {
+  align: center;
+  vertical-align: bottom;
+}
+
+
+
+/* メイン部分のスタイル */
+.main {
+  text-align: left;
+  vertical-align: top;
+}
